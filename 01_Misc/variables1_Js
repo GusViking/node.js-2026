@@ -46,5 +46,9 @@ console.log(people)
 // It is imperton to use semi colon is 
 // when you need to make a return
 
-
+// How to:
+// git add ./-a
+// git commit -m ""
+// git push 
+// = success!!!!
 
