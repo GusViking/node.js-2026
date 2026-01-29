@@ -1,0 +1,50 @@
+// node REPL
+
+// tyoe cohersion
+// strict euqality
+
+// Rule 1: use const always per default, 
+// if need to change use let
+
+// Tip: use console.log for printing in terminal
+
+// Tip: const is constant in the assignment, not the value
+
+// JS Data types:
+// String, Number, Boolean, Objects, 
+// Symbol, Null, Undefined, BigInt
+
+// Arrays is a type of objects
+// float is a type of number
+
+const luckyNumber = 4;
+
+console.log(luckyNumber);
+
+const person = {
+    // key-value pair
+    name: "Matias"
+};
+
+person.name = "Gustav";
+
+person.age = 132423452
+
+console.log(person)
+
+const people = [];
+
+people.push("Victor")
+people.push("Gustav")
+people.push("Matias")
+people.push("Anders")
+
+console.log(people)
+
+// JS have ASI = Automatic Semikolon insertion
+
+// It is imperton to use semi colon is 
+// when you need to make a return
+
+
+
